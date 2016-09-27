@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		966FB66D1D3E3A620080F650 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 966FB66C1D3E3A620080F650 /* main.c */; };
+		96A56F7D1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.c in Sources */ = {isa = PBXBuildFile; fileRef = 96A56F7B1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.c */; };
+		96A56F821D9A31360067DA02 /* evidencia_aprendizaje_unidad6.c in Sources */ = {isa = PBXBuildFile; fileRef = 96A56F801D9A31360067DA02 /* evidencia_aprendizaje_unidad6.c */; };
+		96A59C731D997398006BEC0B /* LlamadasTelefonicas.c in Sources */ = {isa = PBXBuildFile; fileRef = 96A59C711D997398006BEC0B /* LlamadasTelefonicas.c */; };
+		96C0571A1D98D9F70009EB90 /* actividad2.c in Sources */ = {isa = PBXBuildFile; fileRef = 96C057181D98D9F70009EB90 /* actividad2.c */; };
+		96C0571E1D98EFD20009EB90 /* evidencia_aprendizaje.c in Sources */ = {isa = PBXBuildFile; fileRef = 96C0571C1D98EFD20009EB90 /* evidencia_aprendizaje.c */; };
+		96C057231D992ABF0009EB90 /* actividad2_palabra_palidromo.c in Sources */ = {isa = PBXBuildFile; fileRef = 96C057211D992ABF0009EB90 /* actividad2_palabra_palidromo.c */; };
+		96C057271D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.c in Sources */ = {isa = PBXBuildFile; fileRef = 96C057251D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.c */; };
+		96C0572B1D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.c in Sources */ = {isa = PBXBuildFile; fileRef = 96C057291D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +33,22 @@
 /* Begin PBXFileReference section */
 		966FB6691D3E3A620080F650 /* C-DFPR */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C-DFPR"; sourceTree = BUILT_PRODUCTS_DIR; };
 		966FB66C1D3E3A620080F650 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		96A56F7B1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "evidencia_aprendizaje_promedio-positivos_promedio-total.c"; sourceTree = "<group>"; };
+		96A56F7C1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "evidencia_aprendizaje_promedio-positivos_promedio-total.h"; sourceTree = "<group>"; };
+		96A56F801D9A31360067DA02 /* evidencia_aprendizaje_unidad6.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = evidencia_aprendizaje_unidad6.c; sourceTree = "<group>"; };
+		96A56F811D9A31360067DA02 /* evidencia_aprendizaje_unidad6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = evidencia_aprendizaje_unidad6.h; sourceTree = "<group>"; };
+		96A59C711D997398006BEC0B /* LlamadasTelefonicas.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LlamadasTelefonicas.c; sourceTree = "<group>"; };
+		96A59C721D997398006BEC0B /* LlamadasTelefonicas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LlamadasTelefonicas.h; sourceTree = "<group>"; };
+		96C057181D98D9F70009EB90 /* actividad2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = actividad2.c; sourceTree = "<group>"; };
+		96C057191D98D9F70009EB90 /* actividad2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = actividad2.h; sourceTree = "<group>"; };
+		96C0571C1D98EFD20009EB90 /* evidencia_aprendizaje.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = evidencia_aprendizaje.c; sourceTree = "<group>"; };
+		96C0571D1D98EFD20009EB90 /* evidencia_aprendizaje.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = evidencia_aprendizaje.h; sourceTree = "<group>"; };
+		96C057211D992ABF0009EB90 /* actividad2_palabra_palidromo.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = actividad2_palabra_palidromo.c; sourceTree = "<group>"; };
+		96C057221D992ABF0009EB90 /* actividad2_palabra_palidromo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = actividad2_palabra_palidromo.h; sourceTree = "<group>"; };
+		96C057251D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = evidencia_aprendizaje_orden_burbuja.c; sourceTree = "<group>"; };
+		96C057261D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = evidencia_aprendizaje_orden_burbuja.h; sourceTree = "<group>"; };
+		96C057291D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = programa_modificado_de_la_unidad2_promedio.c; sourceTree = "<group>"; };
+		96C0572A1D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = programa_modificado_de_la_unidad2_promedio.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +81,121 @@
 		966FB66B1D3E3A620080F650 /* C-DFPR */ = {
 			isa = PBXGroup;
 			children = (
+				96A56F7E1D9A30FC0067DA02 /* Unidad6 */,
+				96A59C6F1D99737B006BEC0B /* Unidad4 */,
+				96C0571F1D992A8B0009EB90 /* Unidad5 */,
+				96C057161D98D9BD0009EB90 /* Unidad3 */,
 				966FB66C1D3E3A620080F650 /* main.c */,
 			);
 			path = "C-DFPR";
+			sourceTree = "<group>";
+		};
+		96A56F7A1D9A16C00067DA02 /* EvidenciaAprendizaje */ = {
+			isa = PBXGroup;
+			children = (
+				96A56F7B1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.c */,
+				96A56F7C1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.h */,
+			);
+			name = EvidenciaAprendizaje;
+			sourceTree = "<group>";
+		};
+		96A56F7E1D9A30FC0067DA02 /* Unidad6 */ = {
+			isa = PBXGroup;
+			children = (
+				96A56F7F1D9A310A0067DA02 /* Evidencia_aprendizaje */,
+			);
+			name = Unidad6;
+			sourceTree = "<group>";
+		};
+		96A56F7F1D9A310A0067DA02 /* Evidencia_aprendizaje */ = {
+			isa = PBXGroup;
+			children = (
+				96A56F801D9A31360067DA02 /* evidencia_aprendizaje_unidad6.c */,
+				96A56F811D9A31360067DA02 /* evidencia_aprendizaje_unidad6.h */,
+			);
+			name = Evidencia_aprendizaje;
+			sourceTree = "<group>";
+		};
+		96A59C6F1D99737B006BEC0B /* Unidad4 */ = {
+			isa = PBXGroup;
+			children = (
+				96A56F7A1D9A16C00067DA02 /* EvidenciaAprendizaje */,
+				96A59C701D997387006BEC0B /* Actividad2 */,
+			);
+			name = Unidad4;
+			sourceTree = "<group>";
+		};
+		96A59C701D997387006BEC0B /* Actividad2 */ = {
+			isa = PBXGroup;
+			children = (
+				96A59C711D997398006BEC0B /* LlamadasTelefonicas.c */,
+				96A59C721D997398006BEC0B /* LlamadasTelefonicas.h */,
+			);
+			name = Actividad2;
+			sourceTree = "<group>";
+		};
+		96C057161D98D9BD0009EB90 /* Unidad3 */ = {
+			isa = PBXGroup;
+			children = (
+				96C0571B1D98EFB50009EB90 /* Evidencia _de_aprendizaje */,
+				96C057171D98D9DB0009EB90 /* Actividad2 */,
+			);
+			name = Unidad3;
+			sourceTree = "<group>";
+		};
+		96C057171D98D9DB0009EB90 /* Actividad2 */ = {
+			isa = PBXGroup;
+			children = (
+				96C057181D98D9F70009EB90 /* actividad2.c */,
+				96C057191D98D9F70009EB90 /* actividad2.h */,
+			);
+			name = Actividad2;
+			sourceTree = "<group>";
+		};
+		96C0571B1D98EFB50009EB90 /* Evidencia _de_aprendizaje */ = {
+			isa = PBXGroup;
+			children = (
+				96C0571C1D98EFD20009EB90 /* evidencia_aprendizaje.c */,
+				96C0571D1D98EFD20009EB90 /* evidencia_aprendizaje.h */,
+			);
+			name = "Evidencia _de_aprendizaje";
+			sourceTree = "<group>";
+		};
+		96C0571F1D992A8B0009EB90 /* Unidad5 */ = {
+			isa = PBXGroup;
+			children = (
+				96C057281D9950580009EB90 /* Autorreflexiones */,
+				96C057241D99467D0009EB90 /* Evidencia_aprendizaje */,
+				96C057201D992AA70009EB90 /* Actividad2 */,
+			);
+			name = Unidad5;
+			sourceTree = "<group>";
+		};
+		96C057201D992AA70009EB90 /* Actividad2 */ = {
+			isa = PBXGroup;
+			children = (
+				96C057211D992ABF0009EB90 /* actividad2_palabra_palidromo.c */,
+				96C057221D992ABF0009EB90 /* actividad2_palabra_palidromo.h */,
+			);
+			name = Actividad2;
+			sourceTree = "<group>";
+		};
+		96C057241D99467D0009EB90 /* Evidencia_aprendizaje */ = {
+			isa = PBXGroup;
+			children = (
+				96C057251D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.c */,
+				96C057261D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.h */,
+			);
+			name = Evidencia_aprendizaje;
+			sourceTree = "<group>";
+		};
+		96C057281D9950580009EB90 /* Autorreflexiones */ = {
+			isa = PBXGroup;
+			children = (
+				96C057291D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.c */,
+				96C0572A1D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.h */,
+			);
+			name = Autorreflexiones;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -88,7 +224,7 @@
 		966FB6611D3E3A620080F650 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = Workstation;
 				TargetAttributes = {
 					966FB6681D3E3A620080F650 = {
@@ -118,7 +254,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96A56F7D1D9A17040067DA02 /* evidencia_aprendizaje_promedio-positivos_promedio-total.c in Sources */,
+				96C0572B1D99507D0009EB90 /* programa_modificado_de_la_unidad2_promedio.c in Sources */,
+				96A59C731D997398006BEC0B /* LlamadasTelefonicas.c in Sources */,
+				96A56F821D9A31360067DA02 /* evidencia_aprendizaje_unidad6.c in Sources */,
+				96C057271D99469A0009EB90 /* evidencia_aprendizaje_orden_burbuja.c in Sources */,
+				96C0571A1D98D9F70009EB90 /* actividad2.c in Sources */,
+				96C057231D992ABF0009EB90 /* actividad2_palabra_palidromo.c in Sources */,
 				966FB66D1D3E3A620080F650 /* main.c in Sources */,
+				96C0571E1D98EFD20009EB90 /* evidencia_aprendizaje.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +283,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
@@ -183,8 +329,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
@@ -239,6 +387,7 @@
 				966FB6721D3E3A620080F650 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
